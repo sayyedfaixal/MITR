@@ -1,0 +1,110 @@
+body {
+    background-color: gray;
+    margin: 0%;
+    padding: 0%;
+}
+
+#app {
+    background-color: whitesmoke;
+    width: 1080px;
+    height: 660px;
+    margin-left: 10%;
+    margin-top: 0%;
+}
+
+.head {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+#head1 {
+    font-size: 30px;
+    color: rgb(59, 58, 58);
+    font-weight: bold;
+}
+
+#head2 {
+    color: rgb(129, 126, 126);
+}
+
+.section2 {
+    margin-left: 70px;
+    padding: 0%;
+}
+
+#section3 {
+    margin-left: 70px;
+    padding: 0%;
+}
+
+#cyk {
+    font-size: 20px;
+}
+
+#section3,
+p {
+    font-size: 13px;
+}
+
+#link1 {
+    color: blue;
+}
+.mainContainer{
+    display: flex;
+}
+.content{
+    width: 650px;
+    height: 40px;
+    background-color: rgb(198, 250, 250);
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 10px;
+    display: flex;
+    
+}
+.idlist{
+    background-color: rgb(174, 224, 247);
+    width: 30px;
+    text-align: center;
+    padding-top: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 15px;
+}
+.idques{
+    margin-left: 5px;
+    padding-top: 10px;
+}
+.box1{
+    width: 120px;
+    height: 35px;
+    background-color: white;
+    border-style: dashed;
+    margin-top: 10px;
+
+}
+.text1{
+    width: 120px;
+    height: 30px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+.display{
+    width: 120px;
+    height: 30px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 40px;
+    text-align: center;
+    opacity: 0.5;
+}
+.btns{
+    margin-top: 30px;
+    margin-left: 60px;
+    padding-left: 10px;
+}

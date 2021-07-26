@@ -1,0 +1,30 @@
+.submit{
+    color: rgb(0, 162, 255);
+}
+.data{
+    display: flex;
+    margin: 1%;
+}
+.srData{
+    background-color: rgba(93, 183, 243, 0.336);
+    padding: 1%;
+}
+.questionData{
+    background-color: rgba(220, 220, 220, 0.336);
+    padding: 1%;
+    flex-grow: 1;
+}
+.answerData{
+    background-color:#fff;
+    padding: 1%;
+    border-style: dashed;
+    flex-grow: 1;
+    margin-right: 10%;
+}
+.choiceData{
+    background-color:rgba(114, 241, 245, 0.521);
+    padding: 1%;
+    flex-grow: 1;
+    justify-content: center;
+}
+
